@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devkishansingh
 - 👀 I’m interested in code that can understand by human 
-- 🌱 I’m currently learning building android application with kotlin with jetpack compose 
-- 💞️ I’m looking to collaborate on kotlin multi platform and 
+- 🌱 I’m currently learning building android application in kotlin with jetpack compose 
+- 💞️ I’m looking to collaborate on kotlin multi platform and jetpack compose.
 - 📫 How to reach me https://www.linkedin.com/in/kishan-singh-a16131170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: curious to know how to make unlimited resources using compose 
